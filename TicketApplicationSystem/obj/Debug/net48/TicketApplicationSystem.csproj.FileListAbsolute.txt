@@ -1,0 +1,12 @@
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\TicketApplicationSystem\TicketApplicationSystem\bin\Debug\net48\TicketApplicationSystem.exe.config
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\TicketApplicationSystem\TicketApplicationSystem\bin\Debug\net48\TicketApplicationSystem.exe
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\TicketApplicationSystem\TicketApplicationSystem\bin\Debug\net48\TicketApplicationSystem.pdb
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\TicketApplicationSystem\TicketApplicationSystem\obj\Debug\net48\TicketApplicationSystem.csproj.AssemblyReference.cache
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\TicketApplicationSystem\TicketApplicationSystem\obj\Debug\net48\TicketApplicationSystem.Form1.resources
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\TicketApplicationSystem\TicketApplicationSystem\obj\Debug\net48\TicketApplicationSystem.csproj.GenerateResource.cache
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\TicketApplicationSystem\TicketApplicationSystem\obj\Debug\net48\TicketApplicationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\TicketApplicationSystem\TicketApplicationSystem\obj\Debug\net48\TicketApplicationSystem.AssemblyInfoInputs.cache
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\TicketApplicationSystem\TicketApplicationSystem\obj\Debug\net48\TicketApplicationSystem.AssemblyInfo.cs
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\TicketApplicationSystem\TicketApplicationSystem\obj\Debug\net48\TicketApplicationSystem.csproj.CoreCompileInputs.cache
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\TicketApplicationSystem\TicketApplicationSystem\obj\Debug\net48\TicketApplicationSystem.exe
+C:\Users\zandr\OneDrive\Documents\Software Engineer\Uploads\SDT\TicketApplicationSystem\TicketApplicationSystem\obj\Debug\net48\TicketApplicationSystem.pdb

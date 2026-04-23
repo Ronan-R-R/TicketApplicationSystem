@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net48</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+		<RootNamespace>TicketApplicationSystem</RootNamespace>
+		<AssemblyName>TicketApplicationSystem</AssemblyName>
+	</PropertyGroup>
+
+</Project>
