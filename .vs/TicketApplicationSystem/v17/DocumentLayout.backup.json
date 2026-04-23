@@ -39,15 +39,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "TicketApplicationSystem",
+              "Title": "TicketApplicationSystem.csproj",
               "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Software Engineer\\Uploads\\SDT\\TicketApplicationSystem\\TicketApplicationSystem\\TicketApplicationSystem.csproj",
               "RelativeDocumentMoniker": "TicketApplicationSystem\\TicketApplicationSystem.csproj",
               "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Software Engineer\\Uploads\\SDT\\TicketApplicationSystem\\TicketApplicationSystem\\TicketApplicationSystem.csproj",
               "RelativeToolTip": "TicketApplicationSystem\\TicketApplicationSystem.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-23T08:55:27.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T08:55:27.858Z"
             },
             {
               "$type": "Document",
@@ -97,8 +96,7 @@
               "RelativeToolTip": "TicketApplicationSystem\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T08:54:05.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T08:54:05.202Z"
             },
             {
               "$type": "Document",
